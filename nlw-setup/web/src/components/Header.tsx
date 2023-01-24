@@ -33,8 +33,7 @@ export function Header() {
             <NewHabitForm />
           </Dialog.Content>
         </Dialog.Portal>
-      </Dialog.Root>
-
+      </Dialog.Root> 
     </div>
   )
 }
